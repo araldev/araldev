@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-araldev.github.io-00C9FF?style=for-the-badge)](https://araldev.github.io/araldev-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-araldev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/araldev)
-[![Email](https://img.shields.io/badge/Email-araldev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:araldev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arturo.r2d2.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturo.r2d2.dev@gmail.com)
 [![npm](https://img.shields.io/badge/npm-v12--ui-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/v12-ui)
 
 </div>
@@ -98,7 +98,7 @@ Architecture outlives frameworks. JWT without Redis isn't real auth. You don't n
 
 I'm looking for opportunities where I can build real things, not configure boilerplates. If you need someone who understands architecture, writes tests without being asked, and cares about the quality of the output as much as the speed of delivery:
 
-[![Email](https://img.shields.io/badge/araldev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturo.r2d2.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arturo.r2d2.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturo.r2d2.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-araldev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/araldev)
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-araldev.github.io-00C9FF?style=for-the-badge)](https://araldev.github.io/araldev-portfolio/)
 
